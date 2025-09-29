@@ -1,5 +1,5 @@
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = 2
+num2 = 3
 
 # Add the numbers
 sum = num1 + num2
